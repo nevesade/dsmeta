@@ -1,8 +1,5 @@
 import axios from 'axios';
 import toast from 'react-hot-toast';
-
-
-
 import icon from '../../assets/img/notification-icon.svg';
 import { BASE_URL } from '../../utils/request';
 import './styles.css';
